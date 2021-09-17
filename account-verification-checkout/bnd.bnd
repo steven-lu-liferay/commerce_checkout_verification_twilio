@@ -1,0 +1,5 @@
+Bundle-Name: account-verification-checkout
+Bundle-SymbolicName: com.liferay.commerce.demo.account.verification.checkout
+Bundle-Version: 1.0.0
+Web-ContextPath: /account-verification-checkout
+
